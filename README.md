@@ -34,11 +34,8 @@ Here are some ideas to get you started:
 
 **💬 Ask me about anything, I'll be happy to help!**
 
-<br>
-
 **💬 My inbox is always open, Contact me**
 
-<br>
 <br> 
 
 <a href="https://in.linkedin.com/in/samshanmukh" target="_blank">
@@ -61,6 +58,6 @@ Here are some ideas to get you started:
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Shanmukh Sain's DEV Profile" height="30" width="30">
 </a>
 
-<br><br><br>
+<br><br>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=samshanmukh.samshanmukh)
