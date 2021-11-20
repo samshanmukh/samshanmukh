@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
 <br>
 <br>
+
 ![](https://github-readme-stats.vercel.app/api?username=samshanmukh&show_icons=true&hide_border=true)
+
 <br>
 <br>
 ** 💬 Ask me about anything, I'll be happy to help! **
@@ -50,3 +52,5 @@ Here are some ideas to get you started:
 <br><br><br>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=samshanmukh.samshanmukh)
+
+![](https://github-readme-stats.vercel.app/api?username=samshanmukh&show_icons=true&hide_border=true)
