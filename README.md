@@ -20,8 +20,10 @@ Here are some ideas to get you started:
 -->
 
 <br>
+
 <code><a href="https://flutter.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
+
 <br>
 <br>
 
@@ -29,28 +31,36 @@ Here are some ideas to get you started:
 
 <br>
 <br>
+
 ** 💬 Ask me about anything, I'll be happy to help! **
+
 <br>
+
 ** 💬 My inbox is always open, Contact me **
+
 <br>
 <br> 
+
 <a href="https://in.linkedin.com/in/samshanmukh" target="_blank">
     <img align="left" alt="Shanmukh Sain | Linkedin" width="24px" src="https://github.com/samshanmukh/samshanmukh/blob/master/Linkedin.svg" />
 </a>
+
 <a href="mailto:shanmukhsain@gmail.com" target="_blank">
     <img align="left" alt="Shanmukh Sain | Gmail" width="26px" src="https://github.com/samshanmukh/samshanmukh/blob/master/Gmail.svg" />
 </a>
+
 <a href="https://twitter.com/samshanmukh" target="_blank">
     <img align="left" alt="Shanmukh Sain | Twitter" width="26px" src="https://github.com/samshanmukh/samshanmukh/blob/master/Twitter.svg" />
 </a>
+
 <a href="https://www.instagram.com/samshanmukh/" target="_blank">
     <img align="left" alt="Shanmukh Sain | Instagram" width="24px" src="https://github.com/samshanmukh/samshanmukh/blob/master/Instagram.svg"  />
 </a>
+
 <a href="https://dev.to/samshanmukh" target="_blank">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Shanmukh Sain's DEV Profile" height="30" width="30">
 </a>
+
 <br><br><br>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=samshanmukh.samshanmukh)
-
-![](https://github-readme-stats.vercel.app/api?username=samshanmukh&show_icons=true&hide_border=true)
