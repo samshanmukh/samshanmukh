@@ -47,6 +47,6 @@ Here are some ideas to get you started:
 <a href="https://dev.to/samshanmukh" target="_blank">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Shanmukh Sain's DEV Profile" height="30" width="30">
 </a>
-<br>
+<br><br><br>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=samshanmukh.samshanmukh)
