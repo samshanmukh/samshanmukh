@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-** 💬 Ask me about anything, I'll be happy to help! **
+**💬 Ask me about anything, I'll be happy to help!**
 
 <br>
 
-** 💬 My inbox is always open, Contact me **
+**💬 My inbox is always open, Contact me**
 
 <br>
 <br> 
