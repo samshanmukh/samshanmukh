@@ -90,7 +90,3 @@ Seeking **Principal/Senior Agentic AI Engineer** roles. Building and shipping sy
 **💬 My inbox is always open – reach out about AI, LLMs, agentic systems, or just chat about building cool stuff.**
 
 ---
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=samshanmukh.samshanmukh&color=blueviolet" alt="Visitor badge">
-</p>
