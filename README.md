@@ -73,16 +73,16 @@ Seeking **Principal/Senior Agentic AI Engineer** roles. Building and shipping sy
 ### 💬 **Let's Connect**
 
 <a href="https://linkedin.com/in/samshanmukh" target="_blank">
-    <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img align="left" alt="LinkedIn" width="22px" src="https://images.icon-icons.com/1043/PNG/512/social_media_icons_flat_shadow_set_512x512_0010_linkedin_icon-icons.com_76459.png" />
 </a>
 <a href="mailto:shanmukhsain@gmail.com" target="_blank">
-    <img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+    <img align="left" alt="Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Gmail_icon_%282026%29.svg" />
 </a>
 <a href="https://twitter.com/samshanmukh" target="_blank">
-    <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    <img align="left" alt="Twitter" width="22px" src="https://pbs.twimg.com/profile_images/1937148284465770496/C36iyzqg.jpg" />
 </a>
 <a href="https://dev.to/samshanmukh" target="_blank">
-    <img align="left" alt="Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/devdotto.svg" />
+    <img align="left" alt="Dev.to" width="22px" src="https://media2.dev.to/dynamic/image/width=775%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F1%2Fd908a186-5651-4a5a-9f76-15200bc6801f.jpg" />
 </a>
 
 <br><br>
