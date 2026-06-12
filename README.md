@@ -72,7 +72,7 @@ Seeking **Principal/Senior Agentic AI Engineer** roles. Building and shipping sy
 
 ### 💬 **Let's Connect**
 
-<a href="https://linkedin.com/in/samshanmukh" target="_blank">
+<a href="https://www.linkedin.com/in/shanmukhsain" target="_blank">
     <img align="left" alt="LinkedIn" width="22px" src="https://images.icon-icons.com/1043/PNG/512/social_media_icons_flat_shadow_set_512x512_0010_linkedin_icon-icons.com_76459.png" />
 </a>
 <a href="mailto:shanmukhsain@gmail.com" target="_blank">
