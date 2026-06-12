@@ -28,8 +28,8 @@ I'm a **full-stack software engineer** building AI/agentic systems that actually
 <code><img height="28" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Go"></code>
 
 **AI/ML & LLMs:**
-<code><img height="28" src="https://www.vectorlogo.zone/logos/anthropic/anthropic-ar21.svg" alt="Claude/Anthropic"></code>
-<code><img height="28" src="https://www.vectorlogo.zone/logos/openai/openai-ar21.svg" alt="OpenAI"></code>
+<code><img height="28" src="https://avatars.slack-edge.com/2025-05-14/8891273522918_30c38bf627ac73075db6_512.png" alt="Claude/Anthropic"></code>
+<code><img height="28" src="https://cdn.arstechnica.net/wp-content/uploads/2024/09/openai_tectonic_shift.jpg" alt="OpenAI"></code>
 LangChain • Vanna.AI • Ollama • Fine-tuning (SFT/RLHF)
 
 **Cloud & Infrastructure:**
