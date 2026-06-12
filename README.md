@@ -1,63 +1,96 @@
-## Hey there..! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="34px" alt="hi">
+## Hey there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="wave">
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=samshanmukh alt=samshanmukh> </p>
+I'm a **full-stack software engineer** building AI/agentic systems that actually ship. Currently focused on **multi-agent orchestration**, **evaluation frameworks**, and **LLM applications** at production scale.
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=samshanmukh&color=blueviolet" alt="Profile views">
+</p>
 
+---
 
-<!--
-**samshanmukh/samshanmukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔨 **What I Build**
 
-Here are some ideas to get you started:
+- **Production LLM Systems** – Text-to-SQL agents, RAG pipelines, agentic workflows on AWS Bedrock
+- **Multi-Agent Orchestration** – Complex workflows with agent routing, error recovery, and structured outputs
+- **Full-Stack Web/Mobile** – React, Next.js, Android, backend APIs (Python, TypeScript, Go)
+- **Data Engineering & MLOps** – Data pipelines, prompt engineering, fine-tuning, evaluation frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<br>
+### 💻 **Tech Stack**
 
-<!-- <code><a href="https://flutter.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code> -->
-<!-- <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code> -->
+**Languages & Frameworks:**
+<code><img height="28" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python"></code>
+<code><img height="28" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript"></code>
+<code><img height="28" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="TypeScript"></code>
+<code><img height="28" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React"></code>
+<code><img height="28" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" alt="Android"></code>
+<code><img height="28" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Go"></code>
 
-<br>
-<br>
+**AI/ML & LLMs:**
+<code><img height="28" src="https://www.vectorlogo.zone/logos/anthropic/anthropic-ar21.svg" alt="Claude/Anthropic"></code>
+<code><img height="28" src="https://www.vectorlogo.zone/logos/openai/openai-ar21.svg" alt="OpenAI"></code>
+LangChain • Vanna.AI • Ollama • Fine-tuning (SFT/RLHF)
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=samshanmukh&show_icons=true&hide_border=true) -->
+**Cloud & Infrastructure:**
+<code><img height="28" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS"></code>
+AWS Bedrock • Lambda • VPC • RDS • ECS/Fargate • DataDog
 
-<br>
-<br>
+**Other:**
+PostgreSQL • MySQL • Firebase • Zuora • Git • GitHub Actions • Docker
 
-**💬 Ask me about anything, I'll be happy to help!**
+---
 
-**💬 My inbox is always open, Contact me**
+### 📦 **Recent Projects**
 
-<br> 
+**McAITasks** – Next.js app with Claude Opus + Base L2 blockchain for on-chain task posting (McClaw.io Buildathon)
 
-<a href="https://in.linkedin.com/in/samshanmukh" target="_blank">
-    <img align="left" alt="Shanmukh Sain | Linkedin" width="24px" src="https://github.com/samshanmukh/samshanmukh/blob/master/Linkedin.svg" />
+**Vitis AI Model Compatibility Analyzer** – Multi-agent Python pipeline for hardware-software compatibility (hackathon)
+
+**Production Text-to-SQL Agent** (Clinicom Healthcare) – Claude + AWS Bedrock in HIPAA-compliant VPC; transformed how clinical teams query databases
+
+**Crypto Backtesting Engine** – Python with realistic fee modeling, in-sample/out-of-sample split to catch overfitting
+
+**RunCoach Growth Stack** – Android dev, Fitbit/Garmin OAuth integrations, Zuora billing, A/B testing, Intercom
+
+---
+
+### 📚 **Background**
+
+- **MS in Data Science** – University of the Pacific, 2024
+- **6+ years** as full-stack engineer in healthtech, fitness, and AI
+- **Strong suit**: Shipping complex systems under pressure, translating business needs into technical architecture
+- **Based in**: San Francisco, CA
+
+---
+
+### 🚀 **Currently**
+
+Seeking **Principal/Senior Agentic AI Engineer** roles. Building and shipping systems that leverage Claude and multi-agent frameworks to solve real problems.
+
+---
+
+### 💬 **Let's Connect**
+
+<a href="https://linkedin.com/in/samshanmukh" target="_blank">
+    <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
 <a href="mailto:shanmukhsain@gmail.com" target="_blank">
-    <img align="left" alt="Shanmukh Sain | Gmail" width="26px" src="https://github.com/samshanmukh/samshanmukh/blob/master/Gmail.svg" />
+    <img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
 <a href="https://twitter.com/samshanmukh" target="_blank">
-    <img align="left" alt="Shanmukh Sain | Twitter" width="26px" src="https://github.com/samshanmukh/samshanmukh/blob/master/Twitter.svg" />
+    <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-
-<a href="https://www.instagram.com/samshanmukh/" target="_blank">
-    <img align="left" alt="Shanmukh Sain | Instagram" width="24px" src="https://github.com/samshanmukh/samshanmukh/blob/master/Instagram.svg"  />
-</a>
-
 <a href="https://dev.to/samshanmukh" target="_blank">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Shanmukh Sain's DEV Profile" height="30" width="30">
+    <img align="left" alt="Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/devdotto.svg" />
 </a>
 
 <br><br>
 
-![](https://visitor-badge.glitch.me/badge?page_id=samshanmukh.samshanmukh)
+**💬 My inbox is always open – reach out about AI, LLMs, agentic systems, or just chat about building cool stuff.**
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=samshanmukh.samshanmukh&color=blueviolet" alt="Visitor badge">
+</p>
