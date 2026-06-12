@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 <br>
 
-<code><a href="https://flutter.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code>
-<code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
+<!-- <code><a href="https://flutter.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code> -->
+<!-- <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code> -->
 
 <br>
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=samshanmukh&show_icons=true&hide_border=true)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=samshanmukh&show_icons=true&hide_border=true) -->
 
 <br>
 <br>
