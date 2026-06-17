@@ -12,7 +12,7 @@ I'm a **full-stack software engineer** building AI/agentic systems that actually
 
 - **Production LLM Systems** – Text-to-SQL agents, RAG pipelines, agentic workflows on AWS Bedrock
 - **Multi-Agent Orchestration** – Complex workflows with agent routing, error recovery, and structured outputs
-- **Full-Stack Web/Mobile** – React, Next.js, Android, backend APIs (Python, TypeScript, Go)
+- **Full-Stack Web/Mobile** – React, Next.js, Android, backend APIs (Python, TypeScript, PHP)
 - **Data Engineering & MLOps** – Data pipelines, prompt engineering, fine-tuning, evaluation frameworks
 
 ---
@@ -25,7 +25,7 @@ I'm a **full-stack software engineer** building AI/agentic systems that actually
 <code><img height="28" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="TypeScript"></code>
 <code><img height="28" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React"></code>
 <code><img height="28" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" alt="Android"></code>
-<code><img height="28" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Go"></code>
+<code><img height="28" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="PHP"></code>
 
 **AI/ML & LLMs:**
 <code><img height="28" src="https://avatars.slack-edge.com/2025-05-14/8891273522918_30c38bf627ac73075db6_512.png" alt="Claude/Anthropic"></code>
