@@ -3,7 +3,7 @@
 I'm a **full-stack software engineer** building AI/agentic systems that actually ship. Currently focused on **multi-agent orchestration**, **evaluation frameworks**, and **LLM applications** at production scale.
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=samshanmukh&color=blueviolet" alt="Profile views">
+  <a src="https://samkarri.com" alt="Profile views">
 </p>
 
 ---
