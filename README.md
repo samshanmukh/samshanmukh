@@ -4,6 +4,10 @@ I'm a **full-stack software engineer** building AI/agentic systems that actually
 
 **[samkarri.com](https://samkarri.com)**
 
+<a href="https://samkarri.com" target="_blank">
+    <img align="left" alt="Portfolio" height="22px" src="https://img.shields.io/badge/Portfolio-samkarri.com-b9895a" />
+</a>
+
 ---
 
 ### 🔨 **What I Build**
